@@ -1,0 +1,29 @@
+body{
+  margin: 0 auto;
+  padding: 0 auto;
+}
+#img1{
+  margin-top: 10px;
+  width:112px;
+  height:112px;
+  position:absolute;
+  left:40%;
+}
+#word1{
+  font-size: 26px;
+  font-family: Maiden Orange;
+  transform: translate(660px, 70px);
+}
+#word2{
+  font-family: Allan;
+  font-size: 14px;
+  font-weight: bold;
+  transform: translate(660px, 73px);
+}
+.line{
+  height:10px;
+  width:70%;
+  margin: auto;
+  margin-top: 95px;
+  background-color: #1995AD;
+}

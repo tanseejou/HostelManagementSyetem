@@ -1,0 +1,87 @@
+.header{
+  margin: 0px 0px 5px 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width:100%;
+  height: 100px;
+  text-align:center;
+  background-color: #A1D6E2;
+  float:left;
+  color:black;
+}
+
+#img1{
+  width:112px;
+  height:112px;
+  position:absolute;
+  left:40%;
+
+}
+#word1{
+  font-size: 26px;
+  font-family: Maiden Orange;
+  margin-top: 60px;
+  margin-left: 40px;
+}
+#word2{
+  font-family: Allan;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 40px;
+}
+
+.break{
+  width: 100%;
+  height: 30px;
+  background-color: #0A7C92;
+  clear:both;
+}
+
+h1,h2{
+  text-align: center;
+  font-family:Arima Madurai;
+  color: #808080;
+}
+.content{
+  padding: 10 30 100 30;
+
+  text-align: center;
+  font-family: Arima Madurai;
+  background-color:#F9F9FF;
+  color: #808080;
+}
+
+button{
+  margin-top: 20px;
+  width: 250px;
+  height: 50px;
+  border-radius: 10px;
+  color:#DCDCDC;
+  background-color: #696969;
+}
+
+button:hover{
+  background-color: white;
+  color: #0A7C92;
+}
+
+a{
+  text-decoration: none;
+}
+
+.footer{
+  height: 50px;
+  width: 100%;
+  background-color: #0A7C92;
+  left:0;
+  bottom:0;
+  position: fixed;
+}
+table,td,th{
+  margin:auto;
+  padding:3px;
+  text-align: center;
+}
+a#logout{
+  background-color: #5E1E31;
+}
