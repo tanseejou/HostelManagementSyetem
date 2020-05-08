@@ -24,8 +24,6 @@ student can apply their hostel for the next sem without going to the office coun
 - Accommodation manaers
 - Students
 
-# Sample interface
-![Choose Hostel](/Choosehostel.jpg)
 
 <br/>This is a group project. Group members:
 - Ong Le Foo
