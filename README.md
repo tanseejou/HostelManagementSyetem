@@ -29,3 +29,4 @@ student can apply their hostel for the next sem without going to the office coun
 - Ong Le Foo
 - Tan Shi Xuan
 - Tan See Jou
+- Beatrice Lim
